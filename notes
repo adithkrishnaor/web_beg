@@ -1,0 +1,11 @@
+col-12    extra small for mobile device
+col-sm-6
+col-md-6
+col-lg-6
+col-xl-6 
+col-xxl-6
+
+<div class="col-12"></div>
+            <div class="col-sm-4"></div>
+            <div class="col-md-4"></div>
+</div>
